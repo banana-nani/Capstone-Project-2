@@ -1,0 +1,47 @@
+<!-- okay so here's the work flow
+
+1. Create all the folders and files I need:
+
+    Assets
+        Images
+            gengar.png
+            hobby1.png
+            hobby2.png
+            hobby3.png
+    
+    Public
+        hobby.html
+        contact.html
+    
+    index.html
+
+
+
+2. Complete drawing up a schematic for what the website should look like in google drawings
+
+3. add in all of the headings, and paragraphs/lists(loremipsum), format and add placeholder image into the index.html
+
+3.5 - open up mdn and figure out how to add a footer for the copyright section
+
+4. add images, headings, and text placeholders to the hobby.html file
+
+5. add in images, headings, and text placeholders for the contact.html file
+
+6. embed links to the hobby.html and contact.html and gengar.png
+
+7. write out the thematic text information and lists 
+
+7.3 - get and add all of the images into the images folder
+
+7.4 - update the footer
+
+7.5 - replace all placeholders in index.html and all .html in public
+
+8. Save and check if website is running smoothly
+
+9. add the website to github
+
+-----------------------------------COMPLETION MARKER <3 MOVE ME DOWN TO MARK WHAT YOU'VE ALREADY COMPLETED --------------------------------------------------
+
+
+-->
